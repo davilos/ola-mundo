@@ -1,3 +1,6 @@
+![octocat do Davilos](https://user-images.githubusercontent.com/88559560/161111248-0d05b3a3-2d0c-4f95-a8bf-93fa8a1dd887.png)
+
+[Acesse meu GitHub](https://github.com/davilos)
 # Olá, mundo!
  Primeiro repositório do **Curso de Git e GitHub**
 
@@ -31,3 +34,16 @@ Lista de Tarefas:
 __*Isso é itálico e negrito*__
 
 ***Isso aqui também é itálico e negrito***
+
+Num | Nome | Nota
+---|---|---
+1|Dávilos|9,5
+2|Aslan|7,0
+3|Edgar|10,0
+
+Fim da tabela
+***
+Teste de um comando em **Python**
+```
+print('Olá, pessoal!')
+```
