@@ -25,6 +25,9 @@ Lista de Tarefas:
 - [ ] Ser um programador profissional
 
 **Isso aqui é negrito**
+
 *Isso é itálico*
+
 __*Isso é itálico e negrito*__
+
 ***Isso aqui também é itálico e negrito***
