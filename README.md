@@ -36,7 +36,7 @@ __*Isso é itálico e negrito*__
 ***Isso aqui também é itálico e negrito***
 
 Num | Nome | Nota
----|---|---
+:---|:---:|---:
 1|Dávilos|9,5
 2|Aslan|7,0
 3|Edgar|10,0
