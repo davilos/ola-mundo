@@ -12,7 +12,7 @@ Lista numerada:
 1. Teste1
 2. Teste2
 3. Teste4
-   1. Teste5
+   1. Teste3
 
 Lista demarcada:
 * Testando1
@@ -23,7 +23,7 @@ Lista demarcada:
 Lista de Tarefas:
 - [x] Iniciar a jornada
 - [ ] Aprender Python
-- [ ] Aprende inglês
+- [ ] Aprender inglês
 - [ ] Aumentar o meu conhecimento
 - [ ] Ser um programador profissional
 
